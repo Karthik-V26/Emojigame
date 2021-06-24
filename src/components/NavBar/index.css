@@ -1,0 +1,25 @@
+.nav-bar {
+  background-color: #ffffff33;
+  height: 90px;
+  padding: 15px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.game-logo {
+  height: 30px;
+  width: 30px;
+  align-self: center;
+}
+.score-top-text {
+  font-family: 'roboto';
+  font-size: 16px;
+  color: #ffffff;
+  margin-right: 8px;
+  margin-left: 8px;
+  align-self: center;
+}
+.sc {
+  display: flex;
+  flex-direction: row;
+}
